@@ -18,6 +18,7 @@ public class ProyectoLGC {
             return "Has mejorado, o te ha llegado el éxito inesperado.";
         }
         return "Te has confiado. Falta realismo.";
+        // Si el valor1 es igual a 2 muestra el resultado
     }
        
     
