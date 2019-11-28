@@ -7,7 +7,7 @@ package proyectolgc;
 
 /**
  *
- * @author luis_
+ * @author luis_ version: java 8
  */
 public class ProyectoLGC {
     private static String veredicto(String valor1, String valor2) {
